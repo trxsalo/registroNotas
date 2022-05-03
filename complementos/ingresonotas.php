@@ -46,7 +46,7 @@
 
             <div class=" card card-body">
 
-                <form action="../src/ingresoNotas.php">
+                <form action="../src/registrarNotas.php" method="POST">
 
                     <div class="form-grup">
                         <select class="form-select" aria-label="Default select example" name="codEstudiantes">
