@@ -52,7 +52,7 @@
                         <select class="form-select" aria-label="Default select example" name="codEstudiantes">
                             <option selected>Selecione el alumno</option>
 
-                            <php include("../src/readEstudiantes.php") ?>
+                            <?php include("../src/readEstudiantes.php") ?>
 
                         </select>
                     </div>

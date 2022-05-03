@@ -72,8 +72,8 @@
 
                     <div class="form-grup">
                         <select class="form-select" aria-label="Default select example" name="carrera">
-                        <option selected>Open this select menu</option>
-                        <php include("../src/readCarreras.php") ?>
+                        <option selected>Selecione la carrera</option>
+                        <?php include("../src/readCarreras.php") ?>
                         
                         </select>
                     </div>
