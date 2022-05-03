@@ -87,6 +87,14 @@
 
                         </select>
                     </div>
+
+
+                    <input type="submit" 
+                            value="guardar" 
+                            class="btn btn-success btn-block form-control" 
+                            name="enviar"
+                        >
+                        
                 </form>
 
             </div>
