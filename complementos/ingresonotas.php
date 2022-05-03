@@ -50,7 +50,7 @@
 
                     <div class="form-grup">
                         <select class="form-select" aria-label="Default select example" name="codEstudiantes">
-                            <option selected>Open this select menu</option>
+                            <option selected>Selecione el alumno</option>
 
                             <php include("../src/readEstudiantes.php") ?>
 
